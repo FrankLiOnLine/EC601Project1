@@ -1,4 +1,4 @@
-# Project Title
+# TwitterAPI & Video Intelligence API
 
 EC601 project #1 API and Google Cloud Video Intelligence using
 
@@ -8,14 +8,14 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-Python Version: 3.6.5
-Packages needed: google.cloud // tweepy // ffmpeg
+Python Version: 3.6.5		
+Packages needed: google.cloud // tweepy // ffmpeg		
 Key needed: Twitter API key // google cloud video intelligence key
 
 ## Running the tests
 
-Please change the '/keys.txt' with your Twitter API key file name in twitterAPI.py line 16
-Please change the '/googleKey.json' with your GCS video intelligence key file name in videoAnalysis.py line 8
+Please change the '/keys.txt' with your Twitter API key file name in twitterAPI.py line 16		
+Please change the '/googleKey.json' with your GCS video intelligence key file name in videoAnalysis.py line 8		
 
 Change the twitter account and quantity of pictures in twitterAPI.py in line 115
 
