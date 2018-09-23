@@ -8,16 +8,16 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-Python Version: 3.6.5		
-Packages needed: google.cloud // tweepy // ffmpeg		
-Key needed: Twitter API key // google cloud video intelligence key
+Python Version: 3.6.5<br>		
+Packages needed: google.cloud // tweepy // ffmpeg<br>		
+Key needed: Twitter API key // google cloud video intelligence key<br>
 
 ## Running the tests
 
-Please change the '/keys.txt' with your Twitter API key file name in twitterAPI.py line 16		
-Please change the '/googleKey.json' with your GCS video intelligence key file name in videoAnalysis.py line 8		
+Please change the '/keys.txt' with your Twitter API key file name in twitterAPI.py line 16<br>		
+Please change the '/googleKey.json' with your GCS video intelligence key file name in videoAnalysis.py line 8<br>		
 
-Change the twitter account and quantity of pictures in twitterAPI.py in line 115
+Change the twitter account and quantity of pictures in twitterAPI.py in line 115<br>
 
 ### Break down into end to end tests
 
